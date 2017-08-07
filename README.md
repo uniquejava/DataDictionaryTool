@@ -10,7 +10,7 @@ jacob1.18是在JDK1.7下，swt4.7是在JDK1.8下编译的, 为支持JDK1.6，选
 
 1. 务必保证机器上安装了JRE1.6及以上版本, 可以到[Oracle官网](http://www.oracle.com/technetwork/java/javase/downloads)去下载, 比如`jre-8u144-windows-x64.exe`，大约60M左右.
 2. 务必保证机器上安装了Office Word(2003, 2007, 2013)
-3. 点这里下载32位安装文件（适用于windows xp, window7 32位）
+3. 点这里下载32位安装文件（适用于windows xp, windows7 32位）
 4. 点这里下载64位安装文件 （适用于windows7 64位, windows10)
 5. 有任何问题请直接在github上提issue或者发邮件至iamcyper@qq.com. 
 
@@ -51,7 +51,8 @@ jacob1.18是在JDK1.7下，swt4.7是在JDK1.8下编译的, 为支持JDK1.6，选
 5. DLL文件跑哪里去了？代码会动态加载dll，不必再指定java.library.path.
 
 ## TODO
-1. 各版Office及Windows测试。
+1. 各版Office及Windows测试.
+2. 支持更多的SQL导出工具.
 
 ## 已经测试过的
 1. Windows7 x64 + Office2013
@@ -66,4 +67,4 @@ https://github.com/areha001/DataDictionaryTool/blob/master/src/help.txt
 原作者证明， 这一行代码最后有我的ID: uniquejava
 https://github.com/areha001/DataDictionaryTool/blob/master/src/ysb/swt/dialog/LRCompositeWithMenu.java#L17
 
-最后FUCK百度， 百度空间中的所有技术博客(2006-2010)全部丢失。
+Last but not least, *FUCK百度*， lost 百度空间所有技术博客(2006-2010).

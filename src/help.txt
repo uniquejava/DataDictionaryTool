@@ -1,3 +1,8 @@
+下载最新版本，请前往：https://github.com/uniquejava/DataDictionaryTool
+如果您觉得本工具解决了你的问题，请帮忙star一下这个项目， 谢谢。
+如果你在使用中遇到任何问题或者有什么改进意见， 请在这里留言：
+https://github.com/uniquejava/DataDictionaryTool/issues
+
 ## 2017年新版使用说明 （支持32/64位）
 1. 务必保证机器上安装了JRE1.6及以上版本, 可以到[Oracle官网](http://www.oracle.com/technetwork/java/javase/downloads)去下载, 比如`jre-8u144-windows-x64.exe`，大约60M左右.
 2. 务必保证机器上安装了Office Word(2003, 2007, 2013)

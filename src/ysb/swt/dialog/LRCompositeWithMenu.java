@@ -13,7 +13,7 @@ public class LRCompositeWithMenu extends LRComposite {
     protected Menu menuBar;
 
     protected String getCopyright() {
-        return "CopyRight 2007-2017\nEmail: iamcyper@qq.com\n主页：https://github.com/uniquejava, 欢迎star";
+        return "CopyRight 2007-2017\nEmail: iamcyper@qq.com\n主页：https://github.com/uniquejava";
     }
 
     protected String getCopyrightPiggySnow() {
